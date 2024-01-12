@@ -20,5 +20,10 @@ the spectrogram gets updated
 
 ![image](https://github.com/hagerashraf/Music-equalizer-and-virtual-instruments/assets/61332559/59f40ea1-f2bf-43ac-bfb8-3df4771f673f)
 
-4- 
+4- The following photo shows the second tab which contains the instruments
 
+![image](https://github.com/hagerashraf/Music-equalizer-and-virtual-instruments/assets/61332559/b2e2cafb-314a-402d-a8f6-66b9823c803c)
+
+5- The following photo shows the piano instrument and the options availble to the user to play with the piano
+
+![image](https://github.com/hagerashraf/Music-equalizer-and-virtual-instruments/assets/61332559/0dc64182-07d7-4047-85b4-27db2197c25d)
